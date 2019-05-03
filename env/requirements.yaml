@@ -13,6 +13,9 @@ dependencies:
 - name: mqube-client-interface
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.27
+- name: mqube-creditcheck-service
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.3
 - name: mqube-propertysearch-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
